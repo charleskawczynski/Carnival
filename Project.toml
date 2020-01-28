@@ -2,3 +2,6 @@ name = "Carnival"
 uuid = "59cbade5-0922-4ddf-b720-5308b8e5b0d6"
 authors = ["Charles_Kawczynski <kawczynski.charles@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
