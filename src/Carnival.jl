@@ -16,4 +16,9 @@ This is a silly function.
 """
 clare() = print("clare made a function!")
 
+
+function foo2_sk(n)
+return n*2
+end
+
 end # module
