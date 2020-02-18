@@ -1,10 +1,11 @@
 module Carnival
 
+export foo
 export clare
 
 greet() = print("Hello World!")
 
-foo() = 1
+foo() = -1
 
 """
     clare()
